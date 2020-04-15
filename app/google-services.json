@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "588725474226",
+    "firebase_url": "https://morsetorch-d7935.firebaseio.com",
+    "project_id": "morsetorch-d7935",
+    "storage_bucket": "morsetorch-d7935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588725474226:android:ff982ff35695624311caab",
+        "android_client_info": {
+          "package_name": "com.fictionstudios.morsetorch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588725474226-8ksmfh4pu63sdj53ptsod1cbv9ujqk0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcylnsodO11NqDuam8NqwK3neELKt9FvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588725474226-8ksmfh4pu63sdj53ptsod1cbv9ujqk0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
